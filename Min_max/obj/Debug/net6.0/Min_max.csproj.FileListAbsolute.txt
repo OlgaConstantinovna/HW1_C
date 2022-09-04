@@ -1,0 +1,15 @@
+D:\HW1\Min_max\bin\Debug\net6.0\Min_max.exe
+D:\HW1\Min_max\bin\Debug\net6.0\Min_max.deps.json
+D:\HW1\Min_max\bin\Debug\net6.0\Min_max.runtimeconfig.json
+D:\HW1\Min_max\bin\Debug\net6.0\Min_max.dll
+D:\HW1\Min_max\bin\Debug\net6.0\Min_max.pdb
+D:\HW1\Min_max\obj\Debug\net6.0\Min_max.csproj.AssemblyReference.cache
+D:\HW1\Min_max\obj\Debug\net6.0\Min_max.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW1\Min_max\obj\Debug\net6.0\Min_max.AssemblyInfoInputs.cache
+D:\HW1\Min_max\obj\Debug\net6.0\Min_max.AssemblyInfo.cs
+D:\HW1\Min_max\obj\Debug\net6.0\Min_max.csproj.CoreCompileInputs.cache
+D:\HW1\Min_max\obj\Debug\net6.0\Min_max.dll
+D:\HW1\Min_max\obj\Debug\net6.0\refint\Min_max.dll
+D:\HW1\Min_max\obj\Debug\net6.0\Min_max.pdb
+D:\HW1\Min_max\obj\Debug\net6.0\Min_max.genruntimeconfig.cache
+D:\HW1\Min_max\obj\Debug\net6.0\ref\Min_max.dll

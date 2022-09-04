@@ -1,0 +1,15 @@
+D:\HW1\Min_max\Max3\Even\bin\Debug\net6.0\Even.exe
+D:\HW1\Min_max\Max3\Even\bin\Debug\net6.0\Even.deps.json
+D:\HW1\Min_max\Max3\Even\bin\Debug\net6.0\Even.runtimeconfig.json
+D:\HW1\Min_max\Max3\Even\bin\Debug\net6.0\Even.dll
+D:\HW1\Min_max\Max3\Even\bin\Debug\net6.0\Even.pdb
+D:\HW1\Min_max\Max3\Even\obj\Debug\net6.0\Even.csproj.AssemblyReference.cache
+D:\HW1\Min_max\Max3\Even\obj\Debug\net6.0\Even.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW1\Min_max\Max3\Even\obj\Debug\net6.0\Even.AssemblyInfoInputs.cache
+D:\HW1\Min_max\Max3\Even\obj\Debug\net6.0\Even.AssemblyInfo.cs
+D:\HW1\Min_max\Max3\Even\obj\Debug\net6.0\Even.csproj.CoreCompileInputs.cache
+D:\HW1\Min_max\Max3\Even\obj\Debug\net6.0\Even.dll
+D:\HW1\Min_max\Max3\Even\obj\Debug\net6.0\refint\Even.dll
+D:\HW1\Min_max\Max3\Even\obj\Debug\net6.0\Even.pdb
+D:\HW1\Min_max\Max3\Even\obj\Debug\net6.0\Even.genruntimeconfig.cache
+D:\HW1\Min_max\Max3\Even\obj\Debug\net6.0\ref\Even.dll
